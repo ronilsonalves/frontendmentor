@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github code](https://github.com/ronilsonalves/frontendmentor/stats-preview-component)
-- Live Site URL: [Github pages](https://miniprojects.ronilsonalves.com/frontendmentor/stats-preview-component)
+- Solution URL: [Github code](https://github.com/ronilsonalves/frontendmentor/stats-preview-card-component)
+- Live Site URL: [Github pages](https://ronilsonalves.github.io/frontendmentor/stats-preview-card-component/)
 
 ## My process
 
