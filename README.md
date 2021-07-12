@@ -7,12 +7,19 @@ I've created this repo after my professor introduced Frontend Mentor website to 
 ## Table of contents
 
 - [Projects](#projects)
+	- [Stats Preview Card Component](#stats-preview-card-component)
+- [Author](#author)
 
-## Projects (ordened by creation)
+## Projects
 
 ### Stats Preview Card Component
 - 📄[Solution](/stats-preview-card-component)
 - 🌐[Live](/stats-preview-card-component)
 
 
-##
+## Author
+
+- Website - [Ronilson Alves](https://github.com/ronilsonalves)
+- Linkedin -[/ronilsonalves](https://linkedin.com/in/ronilsonalves)
+- Frontend Mentor - [@ronilsonalves](https://www.frontendmentor.io/profile/ronilsonalves)
+- Twitter - [@ronilsonalves](https://www.twitter.com/ronilsonalves)

@@ -48,6 +48,7 @@ This project was introduced to me by our professor of Front End I as a practice 
 ## Author
 
 - Website - [Ronilson Alves](https://github.com/ronilsonalves)
+- Linkedin -[/ronilsonalves](https://linkedin.com/in/ronilsonalves)
 - Frontend Mentor - [@ronilsonalves](https://www.frontendmentor.io/profile/ronilsonalves)
 - Twitter - [@ronilsonalves](https://www.twitter.com/ronilsonalves)
 
