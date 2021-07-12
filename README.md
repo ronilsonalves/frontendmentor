@@ -14,7 +14,7 @@ I've created this repo after my professor introduced Frontend Mentor website to 
 
 ### Stats Preview Card Component
 - 📄[Solution](/stats-preview-card-component)
-- 🌐[Live](/stats-preview-card-component)
+- 🌐[Live](https://ronilsonalves.github.io/frontendmentor/stats-preview-card-component/)
 
 
 ## Author
